@@ -1,0 +1,2 @@
+/Users/sebastien/ENSCM/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/sebastien/ENSCM/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
